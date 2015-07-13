@@ -8,3 +8,5 @@ add master
 =======
 add feature
 >>>>>>> feature1
+
+Git is a free software
